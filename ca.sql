@@ -1,5 +1,5 @@
 redhat 7.4 Maipo
-
+suckmydick
 Row movement is mainly applied to partition tables. It allows rows to be moved across partitions. With row movement disabled, which is the default, you cant move a row with an update:
 
 You can place the public key on any server, and then connect to the server using an SSH client that has access to the private key.
